@@ -1,4 +1,4 @@
-# xkb-for-macos
+# xkb-for-macos [UN DES SEUL KEY LAYOUT QUI MARCHE !!! (VALIDE on SONOMA14.04!]
 
 PC keyboard layouts for MacOS straight from X11 xkb.
 
